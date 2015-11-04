@@ -98,10 +98,12 @@ O cronograma será **CONGELADO** nas fases de aprovação por parte da **Gavimax
 
 ## CUSTOS
 
-Total de horas estimado: aproximadamente 280 horas
+Total de horas estimado: aproximadamente 224 horas
 
-Valor do projeto: R$ 5.600,00
+Valor do projeto: R$ 15.000,00
 
 ## CONDIÇÕES
 
-Proposta válida por 7 dias úteis. Após esse período entrar em contato para avaliação de novos prazos devido a possível re-alocação dos recursos.
+- Proposta válida por 7 dias úteis. Após esse período entrar em contato para avaliação de novos prazos devido a possível re-alocação dos recursos.
+- O pagamento deverá ser feito 30% no início do projeto. Os demais 70% deverão ser pagos na entrega
+- A segunda parte do pagamento poderá ser parcelada mediante negociação prévia.
