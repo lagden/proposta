@@ -1,6 +1,6 @@
 ## OBJETIVO / PROPOSTA
 
-A proposta da **One** para o site da **Gavimax** tem como orientação os seguintes objetivos:
+A proposta da **Dgital Studio** para o site da **Gavimax** tem como orientação os seguintes objetivos:
 
 - Criação da identidade visual da marca e do site
 - Melhorar audiência do site
@@ -80,7 +80,7 @@ O cronograma será **CONGELADO** nas fases de aprovação por parte da **Gavimax
 - 1 Programador
 - 1 Especialista em Marketing Digital
 
-### Responsabilidades da One
+### Responsabilidades da **Dgital Studio**
 
 - Layouts
 - Criação
